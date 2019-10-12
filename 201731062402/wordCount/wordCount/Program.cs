@@ -30,13 +30,15 @@ namespace wordCount
             path = "input.txt";
             outpath = "output.txt";
             //n = "3";
-            //m = "2";
+            m = "2";
             
             for (int i = 0; i < args.Length; i++)
             {
                 switch (args[i])
                 {
                     case "-i":
+                        //异常处理
+                        /*
                         try
                         {
                             args[i+1].Contains(".txt");
@@ -44,7 +46,7 @@ namespace wordCount
                         catch
                         {
                             Console.WriteLine("输入的路径无效！不含有txt文件！");
-                        }
+                        }*/
                         path = args[i + 1];//输入路径
                         break;
                     case "-o"://-o输出路径

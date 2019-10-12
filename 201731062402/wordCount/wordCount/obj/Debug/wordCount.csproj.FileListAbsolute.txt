@@ -5,3 +5,10 @@ D:\VS_practice\wordCount\wordCount\bin\Debug\wordCount.exe
 D:\VS_practice\wordCount\wordCount\bin\Debug\wordCount.pdb
 D:\VS_practice\wordCount\wordCount\obj\Debug\wordCount.exe
 D:\VS_practice\wordCount\wordCount\obj\Debug\wordCount.pdb
+D:\VS_practice\WordCount\201731062402\wordCount\wordCount\bin\Debug\wordCount.exe.config
+D:\VS_practice\WordCount\201731062402\wordCount\wordCount\bin\Debug\wordCount.exe
+D:\VS_practice\WordCount\201731062402\wordCount\wordCount\bin\Debug\wordCount.pdb
+D:\VS_practice\WordCount\201731062402\wordCount\wordCount\obj\Debug\wordCount.csprojAssemblyReference.cache
+D:\VS_practice\WordCount\201731062402\wordCount\wordCount\obj\Debug\wordCount.csproj.CoreCompileInputs.cache
+D:\VS_practice\WordCount\201731062402\wordCount\wordCount\obj\Debug\wordCount.exe
+D:\VS_practice\WordCount\201731062402\wordCount\wordCount\obj\Debug\wordCount.pdb
